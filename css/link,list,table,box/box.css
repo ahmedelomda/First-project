@@ -1,0 +1,15 @@
+.bob {
+    background-color:lightgrey ;
+    width: 500px;
+    border: 30px solid #ff471a;
+    padding:30px;
+    margin: 30px;
+}
+
+.pop{
+  background-color:#80ffaa;
+    width: 400px;
+    border: 15px solid #e67300;
+    padding:25px;
+    margin: 3px;
+}

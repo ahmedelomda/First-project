@@ -1,0 +1,33 @@
+ul.c3{
+
+list-style-type: square;
+list-style-image: url('image.jpg');
+ list-style-position: inside;
+  background: #ff9999;
+    padding: 20px;
+	
+	
+}
+ul li{
+ background: #ccffe6;
+    padding: 10px;
+    margin-left: 10px;
+
+}
+
+ol.c4{
+
+list-style-type:lower-alpha;
+ list-style-position: inside;
+  background:#ff8c66;
+    padding: 20px;
+	
+}
+
+	ol li{
+	 background: #ffe5e5;
+    padding: 10px;
+    margin-left: 10px;
+	
+	
+	}

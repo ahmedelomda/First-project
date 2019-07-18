@@ -1,0 +1,64 @@
+.c1{
+    background-color:#99ccff;
+	font-size:21px;
+    width: 250px;
+    height: 120px;
+	padding:25px;
+	margin:40px;
+    border: 2px solid green;
+    overflow: visible;
+	float:left;
+}
+
+
+
+.c2 {
+    background-color:#99ccff;
+	font-size:21px;
+    width: 250px;
+    height: 120px;
+	padding:25px;
+	margin:40px;
+    border: 2px solid red;
+    overflow: hidden;
+	float:right;
+}
+
+.c3 {
+    background-color: #99ccff;
+	font-size:21px;
+    width: 250px;
+    height: 120px;
+	padding:25px;
+	margin:40px;
+    border: 2px solid #9933ff;
+    overflow: scroll;
+  	float:left;
+
+}
+
+
+.c4 {
+    background-color: #99ccff;
+	font-size:21px;
+    width: 250px;
+    height: 120px;
+	padding:25px;
+	margin:40px;
+    border: 2px solid blue;
+    overflow: auto;
+	float:left;
+	
+}
+
+.pop{
+	
+	clear:both;
+  
+}
+	
+.c4{
+	
+	float:right;
+}
+

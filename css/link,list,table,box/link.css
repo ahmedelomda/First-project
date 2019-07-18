@@ -1,0 +1,51 @@
+.c1:link {
+
+    background-color:#4dff4d;
+    color:#0000ff;
+	text-decoration:line-through;
+}
+
+
+
+.c1:visited {
+    background-color:#66ffff;
+    color:#ff00ff;
+	text-decoration: none;
+}
+
+
+
+.c1:hover {
+    background-color:#ffcc00;
+	color: white;
+	text-decoration:underline;
+}
+
+
+
+.c1:active {
+    
+    background-color:;
+	color: red;
+	text-decoration: overline;
+}
+
+.c2:link, a:visited {
+    background-color:#ff6633 ;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	font-size:30px;
+}
+
+
+.c2:hover, a:active {
+    background-color: #992600;
+	
+  
+}
+.c2{
+text-align:right top;
+}
